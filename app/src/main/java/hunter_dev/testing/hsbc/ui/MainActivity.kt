@@ -14,7 +14,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        if (false && savedInstanceState == null) {
+        if (savedInstanceState == null) {
             supportFragmentManager.beginTransaction()
                 .add(R.id.mainContainer, ResumeFragment.newInstance())
                 .commit()
