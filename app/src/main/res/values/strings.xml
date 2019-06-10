@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sergii Okhotnyi</string>
+    <string name="loading">Loading…</string>
+    <string name="summary">Summary</string>
+    <string name="experience">Experience</string>
+    <string name="topics">Topics</string>
+    <string name="contacts">Contacts</string>
+    <string name="error">Unexpected happened</string>
+</resources>
